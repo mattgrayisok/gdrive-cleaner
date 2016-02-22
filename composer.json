@@ -1,0 +1,13 @@
+{
+    "name": "fuzz/grdive",
+    "description": "A gdrive cleaner",
+    "authors": [
+        {
+            "name": "Matt Gray",
+            "email": "matt.gray@retrofuzz.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "1.*"
+    }
+}

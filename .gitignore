@@ -1,0 +1,4 @@
+vendor
+._*
+.credentials
+client_secret.json
