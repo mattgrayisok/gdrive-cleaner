@@ -1,7 +1,7 @@
 Follow Step 1 from: https://developers.google.com/drive/v3/web/quickstart/php  
 
-The updated Drive.php file mentioned in Step 2 is included in this repo.
-
 `composer install`
+
+`mv ./vendor/google/apiclient/src/Google/Service/Drive.php ./vendor/google/apiclient/src/Google/Service/Drive.php.old && mv ./Drive.php ./vendor/google/apiclient/src/Google/Service/Drive.php`
 
 `php index.php`
